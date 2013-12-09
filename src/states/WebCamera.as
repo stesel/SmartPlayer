@@ -16,7 +16,6 @@ package states
 	import flash.media.Camera;
 	import flash.media.StageVideo;
 	import flash.system.Capabilities;
-	import org.aswing.util.AbstractImpulser;
 	import utils.SmartLogger;
 	/**
 	 * ...

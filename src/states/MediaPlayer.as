@@ -262,7 +262,7 @@ package states
 		{
 			if (fileRef)
 			{
-				fileRef.cancel
+				fileRef.cancel();
 				fileRef = null;
 			}
 			if (netStream)
